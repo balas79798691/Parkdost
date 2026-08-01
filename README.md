@@ -1,18 +1,18 @@
-# 🅿️ ParkDost
+# ParkDost
 
 **ParkDost** is a cloud-based smart parking system web application designed to simplify parking management. It helps users find available parking spaces, view parking availability, and experience a modern parking interface.
 
-## 🚀 Features
+## Features
 
-- 🅿️ Smart Parking Dashboard
-- ☁️ Cloud-Based Parking Concept
-- 📍 Live Parking Slot Display
-- 🚗 Parking Slot Booking Interface
-- 📊 Statistics Dashboard
-- 📱 Responsive Design
-- ✨ Interactive User Interface
-- 📞 Contact Form
-- 🎨 Modern and Clean UI
+-  Smart Parking Dashboard
+-  Cloud-Based Parking Concept
+-  Live Parking Slot Display
+-  Parking Slot Booking Interface
+-  Statistics Dashboard
+-  Responsive Design
+-  Interactive User Interface
+- Contact Form
+-  Modern and Clean UI
 
 ## Technologies Used
 
